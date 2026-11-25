@@ -1,6 +1,6 @@
 // Guarda la app en el teléfono para que abra sin internet.
 // Si cambias algún archivo de la app, sube también este con el número de VERSION aumentado.
-const VERSION = "osito-v3";
+const VERSION = "osito-v4";
 const SHELL = ["./", "./index.html", "./config.js", "./manifest.webmanifest", "./logo.png", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png", "./favicon.png"];
 const CDN = ["https://www.gstatic.com/firebasejs/", "https://fonts.googleapis.com/", "https://fonts.gstatic.com/", "https://cdnjs.cloudflare.com/"];
 
